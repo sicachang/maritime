@@ -10,7 +10,7 @@
 - NEW_INTERNATIONAL_GUIDELINES_FOR_VESSEL_TRAFFIC_SERVICES
 <https://www.researchgate.net/publication/348408601_NEW_INTERNATIONAL_GUIDELINES_FOR_VESSEL_TRAFFIC_SERVICES>
 
-# 基於上述要求，任何VDES系統的設計必須解決許多挑戰，其中包括：
+# 任何VDES系統的設計必須解決許多挑戰，其中包括：
 - 需要7個接收器來同時處理不同的VDES業務類型—AIS / ASM / VDE / DSC。
 - 系統必須優先考慮AIS通道。
 - VDES設計基於地面和衛星通訊，因此系統必須處理這兩種情況的頻譜使用。
