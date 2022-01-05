@@ -4,6 +4,9 @@
 - JRC coast radio station
 <http://www.jrc.co.jp/eng/product/lineup/coast_radio_station/index.html>
 
+- 中華電信 參加『海岸通信技術研習』報告(機械)
+<https://report.nat.gov.tw/ReportFront/PageSystem/reportFileDownload/C08907660/001>
+
 ## related works
 - New_Aspects_for_Modernization_Global_Maritime_Distress_and_Safety_System_(GMDSS)
 <https://www.transnav.eu/Article_New_Aspects_for_Modernization_Global_Maritime_Distress_and_Safety_System_(GMDSS)_Ilcev,56,1086.html>
