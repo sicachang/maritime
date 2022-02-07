@@ -23,9 +23,23 @@ https://www.linkedin.com/pulse/17m-proposed-dot-resilient-pnt-initiatives-gps-wo
 
 <https://www.orolia.com/resilient-pnt-how-to-detect-protect-and-prevent-disruption-of-gps-gnss-pnt-signals-and-sources/>
 
-為 NAVWAR 和 GPS 拒絕環境做好準備 <https://www.orolia.com/solution/interference-detection-and-mitigation/>
+為 NAVWAR 和 GPS 拒絕環境做好準備   <https://www.orolia.com/solution/interference-detection-and-mitigation/>  
 雖然一些軍事領導人知道如何在沒有儀器的情況下導航，但如果沒有特定的檢測能力，幾乎不可能知道關鍵系統是否受到影響。使用損壞的信號，敵軍可以發送錯誤的定位、導航和授時 (PNT) 數據來破壞或擊敗軍事行動。
 
 Orolia 是彈性 PNT 系統的全球領導者，我們更進一步，為當今的戰場提供全面的模擬和乾擾檢測與監控 (IDM) 解決方案。
 
 Orolia 的 IDM 套件提供全面的 GPS/GNSS 欺騙和乾擾監測、檢測、抑制和對抗技術，範圍從保護軍事基地、政府設施和其他固定站點位置的策略到輕量級、軟件定義的技術來阻止欺騙和乾擾器在移動戰場上——無論是在陸地、海上還是空中。
+
+
+## 
+1. Echo Ridge LLC: Augmented Positioning System
+2. Hellen Systems, LLC: eLORAN system
+3. NextNav LLC: Metropolitan Beacon System
+4. OPNT B.V.: OPNT embedded timing switches
+5. PhasorLab Inc: Hyper Sync Net
+6. Satelles, Inc: Satellite Time and Location service
+7. Serco Inc: R-Mode (Ranging Mode) technology
+8. Seven Solutions S.L.: timing services based on White Rabbit protocol
+9. Skyhook Wireless, Inc: Precision Location System
+10. TRX Systems, Inc: NEON Personnel Tracker
+11. Ursa Navigation Solutions, Inc. (d.b.a. UrsaNav, Inc.): eLORAN system
