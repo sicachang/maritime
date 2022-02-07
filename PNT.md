@@ -20,3 +20,12 @@ https://www.linkedin.com/pulse/17m-proposed-dot-resilient-pnt-initiatives-gps-wo
 - Serco Inc.中頻 R 模式。
 - NextNav 有限責任公司。使用 UHF 頻率的大都會信標系統。
 - PhasorLab Inc. 和 Skyhook Wireless Inc.都使用 Wi-Fi 頻率。Phasorlab 使用專用的發射器網絡。Skyhook 利用現有的 Wi-Fi 接入點。
+
+<https://www.orolia.com/resilient-pnt-how-to-detect-protect-and-prevent-disruption-of-gps-gnss-pnt-signals-and-sources/>
+
+為 NAVWAR 和 GPS 拒絕環境做好準備 <https://www.orolia.com/solution/interference-detection-and-mitigation/>
+雖然一些軍事領導人知道如何在沒有儀器的情況下導航，但如果沒有特定的檢測能力，幾乎不可能知道關鍵系統是否受到影響。使用損壞的信號，敵軍可以發送錯誤的定位、導航和授時 (PNT) 數據來破壞或擊敗軍事行動。
+
+Orolia 是彈性 PNT 系統的全球領導者，我們更進一步，為當今的戰場提供全面的模擬和乾擾檢測與監控 (IDM) 解決方案。
+
+Orolia 的 IDM 套件提供全面的 GPS/GNSS 欺騙和乾擾監測、檢測、抑制和對抗技術，範圍從保護軍事基地、政府設施和其他固定站點位置的策略到輕量級、軟件定義的技術來阻止欺騙和乾擾器在移動戰場上——無論是在陸地、海上還是空中。
