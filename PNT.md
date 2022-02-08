@@ -43,3 +43,10 @@ Orolia 的 IDM 套件提供全面的 GPS/GNSS 欺騙和乾擾監測、檢測、�
 9. Skyhook Wireless, Inc: Precision Location System
 10. TRX Systems, Inc: NEON Personnel Tracker
 11. Ursa Navigation Solutions, Inc. (d.b.a. UrsaNav, Inc.): eLORAN system
+
+<https://www.anritsu.com/zh-tw/test-measurement/news/news-releases/2021/2021-05-20-zh-tw01>
+<https://www.orolia.com/solution/essential-gnss-simulation/>
+<https://www.orolia.com/sbi-japannext-selects-orolias-secure-timing-solutions/>
+<https://www.rahisystems-cn.com/orolia> 多個GNSS同步
+<https://www.nepia.com/articles/spoofing-at-sea/> Orolia Maritime 的 M-SecureSync 等導航保護設備 (NPD)   
+<https://smartmaritimenetwork.com/2019/09/05/orolia-and-telko-partner-on-cyber-resilient-ecdis/> Orolia 和 Telko 合作開發具有網絡彈性的 ECDIS  
